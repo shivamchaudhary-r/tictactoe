@@ -5,3 +5,4 @@ A simple tic tac toe game web version made using HTML, CSS & JS. Tic Tac Toe is 
 
 
 
+![ttt](https://user-images.githubusercontent.com/79602168/169994850-768f1f64-d7eb-4622-95c5-7578e965ba48.png)
